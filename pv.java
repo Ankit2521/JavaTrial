@@ -18,6 +18,6 @@ public class Main {
        int key =sc.nextInt();
        int index= linearsearch(number,key);
        System.out.println(index);
-       System.out.println(Math.max(key,1));
+       System.out.println(Math.max(12,1));
     }
 }
